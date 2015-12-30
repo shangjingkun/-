@@ -21,8 +21,7 @@
     
        NSLog(@"dayin");
        NSLog(@"dayin");
-       NSLog(@"dayin");
-       NSLog(@"dayin");
+    printf("aaaaaa");
     
     
     
