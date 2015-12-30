@@ -18,6 +18,18 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"dayin");
+    
+       NSLog(@"dayin");
+       NSLog(@"dayin");
+       NSLog(@"dayin");
+       NSLog(@"dayin");
+    
+    
+    
+    
+    
+    
+    
 }
 
 
